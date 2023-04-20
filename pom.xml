@@ -9,7 +9,12 @@
 		<version>3.0.5</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
+
 //changes done by Veeraj QA
+
+
+//changes done by vishal DEV
+
 	<groupId>com.BikkasdIT</groupId>
 	<artifactId>SpringMVCSecondApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
